@@ -1,1 +1,7 @@
-
+pandas
+boto3
+google-cloud-storage
+pytest
+pytest-playwright
+requests
+python-dotenv
