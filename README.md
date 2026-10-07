@@ -112,4 +112,4 @@ Remove-Item Env:RHOMBUS_ORG_ID
 - `evidence/` — selected screenshots
 - `ui-tests/` — Playwright read-only UI automation for pipeline configuration and schedule checks
 - `api-tests/` — direct backend API tests for authenticated, unauthenticated, and invalid-token requests
-- **Demo video:** pending
+- Demo video: https://www.loom.com/share/f89580e6b85f490389d0da743391528d
