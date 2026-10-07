@@ -1,0 +1,227 @@
+{
+    "title": "UI-01-pipeline-config",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1529,
+            "height": 361,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://rhombusai.com/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://rhombusai.com/",
+                    "title": "Rhombus AI"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "html > body > div > div > div > div.project-sidebar-shell > div.min-h-0 > div.h-full > [data-testid='project-card'] > div > div > div"
+                ],
+                [
+                    "xpath///*[@data-testid=\"project-card\"]/div/div/div"
+                ],
+                [
+                    "pierce/html > body > div > div > div > div.project-sidebar-shell > div.min-h-0 > div.h-full > [data-testid='project-card'] > div > div > div"
+                ],
+                [
+                    "text/Luka-drift"
+                ]
+            ],
+            "offsetY": 13.037307739257812,
+            "offsetX": 57.23134231567383
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "[data-testid='rf__node-1791286280346'] div.mt-0\\.5"
+                ],
+                [
+                    "xpath///*[@data-testid=\"node-input-selected\"]/div[1]/div[2]"
+                ],
+                [
+                    "pierce/[data-testid='rf__node-1791286280346'] div.mt-0\\.5"
+                ]
+            ],
+            "offsetY": 2.1403656005859375,
+            "offsetX": 9.00665283203125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(2) > div.gap-y-2 > div span"
+                ],
+                [
+                    "xpath///*[@data-testid=\"right-sidebar\"]/div[2]/form/div[2]/div[2]/div[2]/div/button/div/span"
+                ],
+                [
+                    "pierce/div:nth-of-type(2) > div.gap-y-2 > div span"
+                ],
+                [
+                    "text/Third Party Sources"
+                ]
+            ],
+            "offsetY": 9.074630737304688,
+            "offsetX": 41.84326171875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/rhombus-gcs-luka-input-001"
+                ],
+                [
+                    "#radix-\\:rcq\\: h3"
+                ],
+                [
+                    "xpath///*[@id=\"radix-:rcq:\"]/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[2]/div/h3"
+                ],
+                [
+                    "pierce/#radix-\\:rcq\\: h3"
+                ],
+                [
+                    "text/rhombus-gcs-luka-input-001"
+                ]
+            ],
+            "offsetY": 13.374374389648438,
+            "offsetX": 80.855712890625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Close",
+                    "aria/[role=\"image\"]"
+                ],
+                [
+                    "#radix-\\:rcq\\: > button > svg"
+                ],
+                [
+                    "xpath///*[@id=\"radix-:rcq:\"]/button/svg"
+                ],
+                [
+                    "pierce/#radix-\\:rcq\\: > button > svg"
+                ]
+            ],
+            "offsetY": 8.13308334350586,
+            "offsetX": 5.21142578125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#radix-\\:r5l\\:-trigger-chatbot > span.transition-transform"
+                ],
+                [
+                    "xpath///*[@id=\"radix-:r5l:-trigger-chatbot\"]/span[2]"
+                ],
+                [
+                    "pierce/#radix-\\:r5l\\:-trigger-chatbot > span.transition-transform"
+                ],
+                [
+                    "text/AI Builder"
+                ]
+            ],
+            "offsetY": 9.332626342773438,
+            "offsetX": 34.4403076171875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#radix-\\:r5l\\:-trigger-dataset > span.transition-transform"
+                ],
+                [
+                    "xpath///*[@id=\"radix-:r5l:-trigger-dataset\"]/span[2]"
+                ],
+                [
+                    "pierce/#radix-\\:r5l\\:-trigger-dataset > span.transition-transform"
+                ],
+                [
+                    "text/Transform"
+                ]
+            ],
+            "offsetY": 4.730743408203125,
+            "offsetX": 36.6591796875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "[data-testid='rf__node-1791286676871'] div.mt-0\\.5"
+                ],
+                [
+                    "xpath///*[@data-testid=\"node-output-unselected\"]/div[1]/div[2]"
+                ],
+                [
+                    "pierce/[data-testid='rf__node-1791286676871'] div.mt-0\\.5"
+                ],
+                [
+                    "text/remove_duplicate_8a7360e6163645ef1d763136b5be4fce"
+                ]
+            ],
+            "offsetY": 0.5184173583984375,
+            "offsetX": 7.5185546875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div.gap-y-2 > div > div.space-y-2 span"
+                ],
+                [
+                    "xpath///*[@data-testid=\"right-sidebar\"]/div[2]/form/div[2]/div[1]/div[2]/div/div[2]/div/button[1]/div/span"
+                ],
+                [
+                    "pierce/div.gap-y-2 > div > div.space-y-2 span"
+                ],
+                [
+                    "text/rhombus-gcs-luka-001"
+                ]
+            ],
+            "offsetY": 5.860687255859375,
+            "offsetX": 93.6766357421875,
+            "duration": 408.10000002384186
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#radix-\\:r5l\\:-trigger-schedule > span.transition-transform"
+                ],
+                [
+                    "xpath///*[@id=\"radix-:r5l:-trigger-schedule\"]/span[2]"
+                ],
+                [
+                    "pierce/#radix-\\:r5l\\:-trigger-schedule > span.transition-transform"
+                ],
+                [
+                    "text/Schedule"
+                ]
+            ],
+            "offsetY": 0.7910690307617188,
+            "offsetX": 31.003173828125
+        }
+    ]
+}

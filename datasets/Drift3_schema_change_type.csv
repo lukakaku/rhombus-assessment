@@ -1,0 +1,321 @@
+order_id,customer_name,email,order_date,amount_usd,quantity,status,country
+ORD-1001,Noah Smith,noah.smith32@example.com,05/21/2026,115.49,2,shipped,CA
+ORD-1002,Henry Smith,henry.smith12@example.com,01/16/2026,113.23,9,shipped,CA
+ORD-1003,Chloe Lewis,chloe.lewis29@example.com,08/03/2026,227.36,5,shipped,US
+ORD-1004,Henry Martin,henry.martin20@example.com,05/23/2026,111.58,6,shipped,Australia
+ORD-1005,Ruby Jones,ruby.jones45@example.com,07/03/2026,303.84,1,delivered,CA
+ORD-1006,Noah Young,noah.young11@example.com,07/13/2026,278.26,10,cancelled,CA
+ORD-1007,Chloe Lewis,chloe.lewis6@example.com,02/05/2026,332.33,5,shipped,United States
+ORD-1008,Noah Anderson,noah.anderson59@example.com,05/23/2026,319.66,6,pending,UK
+ORD-1009,Oscar Taylor,oscar.taylor90@example.com,05/17/2026,468.64,2,PENDING,Canada
+ORD-1010,Lucas Brown,lucas.brown49@example.com,08/25/2026,138.62,9,pending,UK
+ORD-1011,Liam Taylor,liam.taylor41@example.com,01/17/2026,203.58,2,pending,CA
+ORD-1012,Grace Taylor,grace.taylor51@example.com,09/13/2026,442.92,8,pending,UK
+ORD-1013,Ava Taylor,ava.taylor96@example.com,05/15/2026,294.37,10,delivered,UK
+ORD-1014,Lucas Brown,lucas.brown64@example.com,09/18/2026,50.00,1,shipped,US
+ORD-1015,Ethan Walker,ethan.walker77@example.com,08/05/2026,36.45,7,delivered,CA
+ORD-1016,Zoe White,zoe.white88@example.com,01/06/2026,361.76,9,cancelled,UK
+ORD-1017,Noah Wilson,noah.wilson21@example.com,08/11/2026,$229.59,5,pending,CA
+ORD-1018,Noah Hall,,06/02/2026,256.29,4,pending,UK
+ORD-1019,Ethan White,ethan.white77@example.com,01/01/2026,165.46,1,shipped,UK
+ORD-1020,Jack Taylor,jack.taylor31@example.com,01/30/2026,439.61,2,shipped,NZ
+ORD-1021,Mia Walker,mia.walker17@example.com,03/06/2026,331.58,9,pending,UK
+ORD-1022,Sophie Hall,sophie.hall28@example.com,08/05/2026,464.81,4,cancelled,NZ
+ORD-1023,Oscar Thomas,,09/22/2026,64.90,4,shipped,UK
+ORD-1024,Olivia Harris,olivia.harris76@example.com,04/28/2026,114.01,-1,SHIPPED,US
+ORD-1025,Mia Young,,01/17/2026,40.07,4,,NZ
+ORD-1026,Chloe White,chloe.white93@example.com,03/09/2026,468.08,10,delivered,US
+ORD-1027,LEO WALKER,leo.walker25@example.com,07/28/2026,51.69,7,cancelled,NZ
+ORD-1028,Henry Thomas,henry.thomas87@example.com,02/30/2026,328.46,2,shipped,NZ
+ORD-1029,Grace Walker,grace.walker32@example.com,02/25/2026,,9,delivered,US
+ORD-1030,  Henry Brown  ,henry.brown60@example.com,05/23/2026,128.65,2,delivered,CA
+ORD-1031,Noah Smith,noah.smith12@example.com,01/08/2026,463.55,4,pending,NZ
+ORD-1032,,leo.thomas52@example.com,04/20/2026,451.71,3,delivered,AU
+ORD-1033,Ruby Wilson,ruby.wilson37@example.com,08/21/2026,214.39,9,delivered,US
+ORD-1034,Chloe Wilson,chloe.wilson8@example.com,04/22/2026,291.69,9,shipped,UK
+ORD-1035,Liam Smith,,09/02/2026,460.10,9,pending,AU
+ORD-1036,Sophie Jones,sophie.jones9@example.com,04/06/2026,299.54,4,delivered,AU
+ORD-1037,Isla Taylor,isla.taylor80@example.com,01/21/2026,45.58,10,cancelled,UK
+ORD-1038,Chloe Clark,chloe.clark31@example.com,06/10/2026,136.48,3,cancelled,NZ
+ORD-1039,Grace Young,grace.young2@example.com,02/07/2026,231.85,-2,shipped,AU
+ORD-1040,Max Taylor,max.taylor34@example.com,09/17/2026,70.57,6,shipped,US
+ORD-1041,  Oscar Wilson  ,oscar.wilson57@example.com,not a date,$417.70,5,shipped,CA
+ORD-1042,Jack Young,jack.young18@example.com,02/23/2026,$135.91,2,pending,UK
+ORD-1043,Jack Harris,jack.harris92@example.com,04/18/2026,174.73,5,delivered,UK
+ORD-1044,Liam Jones,liam.jones36@example.com,08/05/2026,26.82,6,pending,UK
+ORD-1045,Ethan Lewis,ethan.lewis71@example.com,08/15/2026,354.31,9,shipped,AU
+ORD-1046,Mia Young,mia.young70@example.com,03/18/2026,22.83,6,pending,NZ
+ORD-1047,Ava Smith,ava.smith47@example.com,06/07/2026,450.00,1,cancelled,US
+ORD-1048,  Lucas Clark  ,lucas.clark46@example.com,02/22/2026,"$3,911.60",7,pending,US
+ORD-1049,Ethan Walker,ethan.walker53@example.com,04/01/2026,17.27,6,delivered,US
+ORD-1050,Zoe Brown,zoe.brown49@example.com,02/25/2026,436.72,8,pending,United States
+ORD-1051,Ella Martin,ella.martin30@example.com,02/30/2026,115.35,4,Delivered,UK
+ORD-1052,Zoe Hall,,02/05/2026,143.17,9,delivered,CA
+ORD-1053,Grace Smith,grace.smith34@example.com,03/01/2026,93.39,5,shipped,AU
+ORD-1054,Finn Anderson,finn.anderson94@example.com,06/26/2026,394.28,7,shipped,NZ
+ORD-1055,Isla Taylor,isla.taylor6@example.com,05/11/2026,355.85,1,pending,United Kingdom
+ORD-1056,Henry Jones,henry.jones80@example.com,06/19/2026,160.39,2,cancelled,CA
+ORD-1057,Jack Clark,jack.clark42@example.com,07/29/2026,204.19,5,pending,US
+ORD-1058,Henry Clark,henry.clark87@example.com,07/14/2026,375.33,3,cancelled,NZ
+ORD-1059,Max Hall,max.hall39@example.com,01/01/2026,147.02,7,cancelled,NZ
+ORD-1060,Ella Thomas,ella.thomas66@example.com,04/20/2026,239.23,3,shipped,UK
+ORD-1061,Sophie Clark,sophie.clark12@example.com,06/21/2026,410.12,4,cancelled,US
+ORD-1062,Chloe Brown,chloe.brown6@example.com,01/13/2026,126.20,8,shipped,NZ
+ORD-1063,Henry Young,henry.young92@example.com,04/10/2026,349.70,8,delivered,US
+ORD-1064,Ava Clark,ava.clark97@example.com,01/03/2026,430.92,2,delivered,US
+ORD-1065,Ethan Walker,ethan.walker60@example.com,09/23/2026,29.86,4,shipped,NZ
+ORD-1066,Ava Walker,ava.walker86@example.com,08/26/2026,267.91,9,cancelled,NZ
+ORD-1067,Finn Hall,finn.hall55@example.com,09/16/2026,416.13,9,delivered,US
+ORD-1068,Leo Thomas,leo.thomas97@example.com,05/13/2026,127.38,5,delivered,US
+ORD-1069,zoe thomas,zoe.thomas92@example.com,02/09/2026,146.44,5,cancelled,UK
+ORD-1070,Max Jones,max.jones20@example.com,03/12/2026,119.47,3,pending,AU
+ORD-1071,Henry Anderson,henry.anderson70@example.com,06/19/2026,235.63,1,pending,NZ
+ORD-1072,Ruby Young,ruby.young98@example.com,01/11/2026,,8,shipped,UK
+ORD-1073,Jack Walker,jack.walker54@example.com,07/19/2026,271.42,9,pending,NZ
+ORD-1074,  Lucas Wilson  ,lucas.wilson63@example.com,08/12/2026,abc,,delivered,US
+ORD-1075,Ella Young,ella.young80@example.com,03/07/2026,269.39,7,SHIPPED,AU
+ORD-1076,Henry Brown,henry.brown24@example.com,08/25/2026,29.89,7,cancelled,US
+ORD-1077,ella martin,ella.martin98@example.com,06/22/2026,440.42,5,delivered,United Kingdom
+ORD-1078,Mia Thomas,mia.thomas96@example.com,01/10/2026,272.01,6,pending,AU
+ORD-1079,Liam Walker,liam.walker32@example.com,01/16/2026,103.68,1,PENDING,US
+ORD-1080,Ava Thomas,ava.thomas73@example.com,02/28/2026,474.14,8,cancelled,UK
+ORD-1081,Ethan Harris,ethan.harris21@example.com,02/28/2026,482.54,2,shipped,UK
+ORD-1082,Isla Clark,isla.clark51@example.com,07/12/2026,471.03,4,shipped,CA
+ORD-1083,Lucas Jones,lucas.jones88@example.com,06/04/2026,302.20,2,shipped,UK
+ORD-1084,Max Anderson,max.anderson9@example.com,07/09/2026,255.45,6,shipped,NZ
+ORD-1085,Leo Jones,leo.jones47@example.com,08/10/2026,319.61,8,pending,NZ
+ORD-1086,Ethan Lewis,ethan.lewis84@example.com,09/25/2026,138.69,9,delivered,NZ
+ORD-1087,Henry Hall,henry.hall42@example.com,05/18/2026,426.60,2,cancelled,NZ
+ORD-1088,Lucas Walker,lucas.walker73@example.com,08/26/2026,307.11,7,cancelled,AU
+ORD-1089,Leo Hall,leo.hall24@example.com,06/16/2026,246.34,6,cancelled,UK
+ORD-1090,,zoe.young72@example.com,05/22/2026,10.02,4,shipped,US
+ORD-1091,Henry Thomas,henry.thomas89@example.com,05/04/2026,240.67,8,delivered,AU
+ORD-1092,Mia Wilson,mia.wilson52@example.com,04/24/2026,347.43,5,cancelled,New Zealand
+ORD-1093,Max White,max.white55@example.com,06/26/2026,498.33,9,cancelled,UK
+ORD-1094,Ella Wilson,ella.wilson33@example.com,06/06/2026,119.12,4,cancelled,AU
+ORD-1095,  Max Walker  ,max.walker25@example.com,04/05/2026,112.11,8,cancelled,CA
+ORD-1096,Sophie Harris,sophie.harris13@example.com,05/25/2026,417.15,5,pending,UK
+ORD-1097,Ethan Wilson,ethan.wilson91@example.com,01/08/2026,269.40,5,shipped,AU
+ORD-1098,  Max Wilson  ,max.wilson82@example.com,03/06/2026,434.89,8,shipped,AU
+ORD-1099,Isla Wilson,isla.wilson62@example.com,08/29/2026,223.03,3,shipped,United Kingdom
+ORD-1100,Leo Jones,leo.jones52@example.com,02/03/2026,248.41,10,shipped,US
+ORD-1101,Ava Walker,ava.walker11@example.com,06/05/2026,496.99,2,delivered ,CA
+ORD-1102,Finn Walker,finn.walker67@example.com,04/26/2026,193.29,8,cancelled,CA
+ORD-1103,Henry Wilson,henry.wilson79@example.com,01/31/2026,480.25,2,pending,US
+ORD-1104,Zoe Clark,zoe.clark21@example.com,02/11/2026,123.73,9,shipped,US
+ORD-1105,  Olivia Anderson  ,olivia.anderson89@example.com,08/19/2026,298.94,5,shipped ,US
+ORD-1106,Jack Lewis,,05/25/2026,430.51,2,pending,UK
+ORD-1107,Isla Clark,isla.clark55@example.com,04/12/2026,N/A,4,pending,UK
+ORD-1108,Ava Jones,ava.jones22@example.com,01/31/2026,397.35,10,cancelled,NZ
+ORD-1109,Noah Thomas,noah.thomas90@example.com,06/05/2026,204.24,5,delivered,NZ
+ORD-1110,Mia Harris,mia.harris56@example.com,01/21/2026,368.59,10,cancelled,AU
+ORD-1111,Mia Taylor,mia.taylor98@example.com,01/11/2026,337.78,5,shipped,US
+ORD-1112,Leo White,leo.white36@example.com,08/15/2026,,10,delivered,NZ
+ORD-1113,Mia Thomas,mia.thomas53@example.com,06/28/2026,169.99,2,pending,UK
+ORD-1114,Henry Lewis,henry.lewis37@example.com,09/11/2026,332.98,,shipped ,NZ
+ORD-1115,Mia Martin,mia.martin42@example.com,05/10/2026,62.38,7,shipped,CA
+ORD-1116,  Ella Anderson  ,ella.anderson25@example.com,01/28/2026,$261.63,10,delivered,NZ
+ORD-1117,Liam Taylor,liam.taylor71@example.com,05/17/2026,69.85,5,delivered,NZ
+ORD-1118,Noah Smith,noah.smith91@example.com,05/03/2026,83.40,9,SHIPPED,CA
+ORD-1119,Henry Jones,henry.jones15@example.com,04/26/2026,233.42,2,pending,NZ
+ORD-1120,Jack White,,05/20/2026,,8,pending,NZ
+ORD-1121,Max Brown,max.brown25@example.com,07/16/2026,461.32,9,pending,AU
+ORD-1122,Zoe Walker,zoe.walker44@example.com,08/01/2026,467.45,,cancelled,AU
+ORD-1123,Jack Lewis,jack.lewis76@example.com,06/02/2026,292.06,8,Pending,NZ
+ORD-1124,MAX THOMAS,john@@example.com,06/26/2026,278.20,9,delivered,New Zealand
+ORD-1125,GRACE HALL,grace.hall90@example.com,04/07/2026,$123.21,7,pending,NZ
+ORD-1126,Liam Martin,,08/31/2026,457.15,7,delivered ,US
+ORD-1127,Leo Smith,leo.smith65@example.com,03/06/2026,482.85,6,shipped,NZ
+ORD-1128,Noah White,noah.white2@example.com,08/22/2026,362.61,7,pending,AU
+ORD-1129,Leo Walker,leo.walker44@example.com,05/16/2026,313.51,7,shipped,UK
+ORD-1130,Max Anderson,max.anderson81@example.com,06/12/2026,360.77,8,shipped,Canada
+ORD-1131,MIA TAYLOR,mia.taylor30@example.com,05/28/2026,374.65,7,shipped,AU
+ORD-1132,Ella Brown,ella.brown4@example.com,06/03/2026,27.77,1,cancelled,UK
+ORD-1133,Oscar Anderson,oscar.anderson32@example.com,03/16/2026,267.93,10,pending,US
+ORD-1134,Ethan Jones,ethan.jones80@example.com,07/15/2026,343.15,8,PENDING,US
+ORD-1135,Ella Clark,ella.clark59@example.com,05/11/2026,131.39,1,delivered,UK
+ORD-1136,Max Brown,max.brown57@example.com,02/07/2026,472.89,10,cancelled,NZ
+ORD-1137,Zoe Thomas,zoe.thomas26@example.com,06/04/2026,499.69,8,shipped,United States
+ORD-1138,Ruby Harris,ruby.harris74@example.com,07/03/2026,151.46,5,shipped,NZ
+ORD-1139,Zoe Smith,zoe.smith78@example.com,01/26/2026,373.86,-5,pending,CA
+ORD-1140,Oscar Taylor,oscar.taylor80@example.com,04/08/2026,129.06,3,shipped,AU
+ORD-1141,Jack Walker,jack.walker5@example.com,08/14/2026,291.89,,shipped,United Kingdom
+ORD-1142,Grace Lewis,grace.lewis23@example.com,08/01/2026,104.39,9,cancelled,CA
+ORD-1143,Sophie Young,sophie.young22@example.com,05/20/2026,132.20,8,cancelled,UK
+ORD-1144,Noah Thomas,noah.thomas19@example.com,02/08/2026,378.30,-3,delivered,CA
+ORD-1145,Oscar Jones,oscar.jones2@example.com,07/22/2026,135.91,2,delivered ,UK
+ORD-1146,Zoe Harris,zoe.harris82@example.com,07/15/2026,470.44,2,pending,NZ
+ORD-1147,Olivia Harris,olivia.harris79@example.com,06/17/2026,114.58,2,delivered,United Kingdom
+ORD-1148,Henry Jones,henry.jones6@example.com,03/13/2026,473.40,5,delivered,AU
+ORD-1149,Noah Taylor,noah.taylor50@example.com,03/11/2026,,9,delivered,CA
+ORD-1150,Ava Young,ava.young84@example.com,08/01/2026,54.02,8,delivered,UK
+ORD-1151,Liam Lewis,liam.lewis28@example.com,07/09/2026,224.47,4,cancelled,AU
+ORD-1152,Oscar White,oscar.white8@example.com,07/03/2026,202.08,4,SHIPPED,NZ
+ORD-1153,Mia Clark,mia.clark83@example.com,04/19/2026,321.55,1,shipped,UK
+ORD-1154,  Lucas Brown  ,lucas.brown9@example.com,04/16/2026,$415.76,,pending,CA
+ORD-1155,Chloe Hall,chloe.hall43@example.com,04/30/2026,388.31,,shipped,UK
+ORD-1156,Ava Brown,ava.brown23@example.com,05/09/2026,59.41,1,pending,AU
+ORD-1157,Oscar Walker,oscar.walker76@example.com,05/02/2026,165.27,3,cancelled,AU
+ORD-1158,Ava Lewis,ava.lewis68@example.com,08/04/2026,61.26,2,Delivered,NZ
+ORD-1159,Oscar White,oscar.white58@example.com,02/25/2026,254.40,10,shipped,CA
+ORD-1160,Jack Thomas,jack.thomas8@example.com,01/16/2026,499.30,7,delivered,AU
+ORD-1161,Leo Lewis,leo.lewis10@example.com,08/16/2026,450.14,6,PENDING,AU
+ORD-1162,Ava Wilson,ava.wilson49@example.com,06/16/2026,497.34,9,cancelled,NZ
+ORD-1163,Sophie Harris,sophie.harris13@example.com,08/09/2026,397.58,2,pending,NZ
+ORD-1164,Ella Young,ella.young53@example.com,04/27/2026,,8,,NZ
+ORD-1165,Noah Martin,noah.martin41@example.com,08/07/2026,,6,pending ,NZ
+ORD-1166,Mia Jones,mia.jones12@example.com,02/13/2026,218.78,6,pending,CA
+ORD-1167,Liam Harris,liam.harris86@example.com,06/18/2026,65.50,6,delivered,AU
+ORD-1168,Jack Harris,jack.harris46@example.com,06/09/2026,56.28,9,pending,US
+ORD-1169,Leo Taylor,leo.taylor45@example.com,02/25/2026,423.46,6,SHIPPED,UK
+ORD-1170,ISLA TAYLOR,isla.taylor72@example.com,08/08/2026,487.40,10,shipped,CA
+ORD-1171,Zoe Smith,zoe.smith35@example.com,04/03/2026,352.84,5,cancelled,UK
+ORD-1172,Olivia Brown,olivia.brown73@example.com,03/15/2026,330.39,2,pending,AU
+ORD-1173,Mia Lewis,mia.lewis49@example.com,04/21/2026,212.82,6,PENDING,UK
+ORD-1174,Jack Lewis,jack.lewis73@example.com,06/16/2026,300.13,1,pending,US
+ORD-1175,Finn Smith,finn.smith35@example.com,02/11/2026,224.34,7,delivered,CA
+ORD-1176,Ella Anderson,ella.anderson28@example.com,05/20/2026,378.70,2,cancelled,NZ
+ORD-1177,Noah Wilson,noah.wilson68@example.com,09/07/2026,335.23,1,,NZ
+ORD-1178,Finn Smith,finn.smith27@example.com,not a date,154.20,4,pending,UK
+ORD-1179,Jack Martin,jack.martin1@example.com,03/03/2026,251.21,7,pending,US
+ORD-1180,Ruby White,ruby.white65@example.com,04/28/2026,281.57,6,shipped,NZ
+ORD-1181,Liam Anderson,liam.anderson59@example.com,01/10/2026,460.98,6,delivered,CA
+ORD-1182,Ruby Lewis,ruby.lewis38@example.com,08/02/2026,62.01,1,cancelled,United States
+ORD-1183,Finn Thomas,finn.thomas12@example.com,07/05/2026,221.17,2,pending,NZ
+ORD-1184,Isla Anderson,isla.anderson11@example.com,09/26/2026,200.90,5,cancelled ,US
+ORD-1185,Grace Walker,grace.walker10@example.com,03/28/2026,257.69,2,PENDING,UK
+ORD-1186,Oscar Lewis,oscar.lewis31@example.com,03/17/2026,55.89,5,pending,US
+ORD-1187,Finn Brown,finn.brown23@example.com,02/08/2026,475.89,8,delivered,CA
+ORD-1188,Isla Thomas,isla.thomas81@example.com,06/15/2026,161.49,8,shipped,NZ
+ORD-1189,Ella Clark,ella.clark36@example.com,06/05/2026,297.75,6,shipped,UK
+ORD-1190,ELLA THOMAS,ella.thomas8@example.com,01/20/2026,187.53,5,shipped ,AU
+ORD-1191,Finn Harris,finn.harris50@example.com,09/17/2026,234.04,9,shipped,NZ
+ORD-1192,Isla Clark,isla.clark42@example.com,04/07/2026,$304.48,9,pending,AU
+ORD-1193,  Ella Jones  ,ella.jones92@example.com,06/25/2026,46.74,3,shipped,US
+ORD-1194,Ella Thomas,ella.thomas67@example.com,09/26/2026,$306.85,6,cancelled,UK
+ORD-1195,Ruby Anderson,ruby.anderson87@example.com,06/23/2026,$300.95,6,Shipped,UK
+ORD-1196,Noah White,noah.white37@example.com,07/17/2026,129.74,10,,UK
+ORD-1197,Mia Harris,mia.harris45@example.com,03/14/2026,158.56,7,pending,CA
+ORD-1198,Mia Wilson,mia.wilson83@example.com,07/12/2026,396.87,3,shipped,NZ
+ORD-1199,SOPHIE MARTIN,sophie.martin47@example.com,01/10/2026,157.89,4,cancelled,NZ
+ORD-1200,Chloe Taylor,not-an-email,03/12/2026,43.20,2,shipped,UK
+ORD-1201,Finn Brown,finn.brown20@example.com,07/12/2026,85.31,10,pending,NZ
+ORD-1202,Liam Anderson,liam.anderson87@example.com,07/06/2026,361.19,8,cancelled,NZ
+ORD-1203,Lucas White,lucas.white40@example.com,05/03/2026,482.97,8,pending,UK
+ORD-1204,Isla Thomas,isla.thomas99@example.com,08/25/2026,N/A,7,Delivered,US
+ORD-1205,Chloe Walker,chloe.walker33@example.com,03/12/2026,30.83,8,cancelled,CA
+ORD-1206,Noah Lewis,,09/22/2026,146.11,3,cancelled,NZ
+ORD-1207,Sophie Brown,sophie.brown12@example.com,08/12/2026,473.47,4,delivered,UK
+ORD-1208,Olivia Anderson,olivia.anderson51@example.com,01/28/2026,"$2,534.90",4,delivered,AU
+ORD-1209,Oscar Taylor,oscar.taylor41@example.com,01/15/2026,465.76,6,pending,US
+ORD-1210,liam wilson,liam.wilson90@example.com,08/30/2026,416.40,8,delivered,CA
+ORD-1211,Olivia Young,olivia.young3@example.com,02/10/2026,131.68,3,delivered,Australia
+ORD-1212,jack taylor,jack.taylor16@example.com,06/04/2026,28.64,,delivered ,AU
+ORD-1213,Noah Hall,noah.hall77@example.com,09/13/2026,270.35,9,pending,US
+ORD-1214,JACK ANDERSON,jack.anderson79@example.com,01/01/2026,179.64,10,,US
+ORD-1215,Mia White,mia.white9@example.com,07/04/2026,476.93,9,shipped,NZ
+ORD-1216,Leo Smith,leo.smith48@example.com,07/18/2026,130.56,1,cancelled,AU
+ORD-1217,Oscar Taylor,oscar.taylor99@example.com,02/23/2026,293.04,6,pending,AU
+ORD-1218,Oscar White,oscar.white83@example.com,06/23/2026,91.67,8,delivered,US
+ORD-1219,,ava.jones5@example.com,08/23/2026,150.25,1,pending,AU
+ORD-1220,Grace Young,grace.young66@example.com,06/08/2026,202.12,9,delivered,UK
+ORD-1221,Liam Walker,liam.walker37@example.com,04/08/2026,181.70,1,cancelled,United Kingdom
+ORD-1222,Noah Walker,noah.walker56@example.com,07/08/2026,445.30,8,delivered,UK
+ORD-1223,Ethan Thomas,ethan.thomas48@example.com,09/12/2026,462.53,9,cancelled,AU
+ORD-1224,Henry Jones,henry.jones78@example.com,08/09/2026,497.57,3,cancelled,UK
+ORD-1225,Noah Jones,,06/17/2026,151.34,8,delivered,US
+ORD-1226,Ella Martin,ella.martin6@example.com,08/17/2026,364.77,6,delivered,UK
+ORD-1227,Liam Jones,liam.jones47@example.com,07/27/2026,258.98,3,shipped,US
+ORD-1228,Finn Clark,finn.clark5@example.com,08/13/2026,67.48,4,cancelled,UK
+ORD-1229,Ruby Harris,,01/17/2026,80.95,8,cancelled,UK
+ORD-1230,Ella Walker,ella.walker74@example.com,02/09/2026,73.16,6,delivered,UK
+ORD-1231,zoe taylor,zoe.taylor4@example.com,02/28/2026,369.16,8,delivered,CA
+ORD-1232,Noah Wilson,noah.wilson91@example.com,05/14/2026,225.91,10,cancelled,NZ
+ORD-1233,Chloe Jones,chloe.jones10@example.com,03/11/2026,228.76,8,shipped,UK
+ORD-1234,Oscar Lewis,oscar.lewis71@example.com,02/03/2026,273.37,5,pending,US
+ORD-1235,Oscar White,oscar.white16@example.com,04/25/2026,492.64,3,pending,NZ
+ORD-1236,Olivia Martin,olivia.martin60@example.com,07/08/2026,$402.81,9,pending,CA
+ORD-1237,Mia Jones,mia.jones51@example.com,06/08/2026,499.80,8,delivered,NZ
+ORD-1238,  Isla Jones  ,isla.jones41@example.com,03/06/2026,322.96,8,delivered,CA
+ORD-1239,Oscar Brown,oscar.brown99@example.com,04/04/2026,483.30,7,Shipped,AU
+ORD-1240,Sophie Brown,sophie.brown22@example.com,06/05/2026,85.17,4,cancelled,CA
+ORD-1241,Jack Hall,jack.hall33@example.com,02/10/2026,102.17,9,CANCELLED,US
+ORD-1242,Jack Harris,jack.harris65@example.com,02/17/2026,322.29,10,pending,US
+ORD-1243,FINN LEWIS,finn.lewis73@example.com,06/22/2026,25.39,1,shipped,AU
+ORD-1244,Isla Wilson,isla.wilson99@example.com,04/18/2026,288.21,10,shipped,NZ
+ORD-1245,Max Wilson,max.wilson62@example.com,06/04/2026,126.21,7,cancelled,NZ
+ORD-1246,Mia Lewis,mia.lewis21@example.com,01/31/2026,222.60,8,delivered,US
+ORD-1247,Grace Harris,grace.harris41@example.com,03/15/2026,431.44,6,cancelled,NZ
+ORD-1248,Ava Walker,ava.walker66@example.com,07/09/2026,283.02,6,pending,New Zealand
+ORD-1249,Noah Wilson,noah.wilson32@example.com,08/19/2026,74.73,1,cancelled,NZ
+ORD-1250,Finn Anderson,finn.anderson21@example.com,05/08/2026,407.67,10,cancelled,United States
+ORD-1251,Ethan Thomas,ethan.thomas60@example.com,09/21/2026,251.89,5,delivered,AU
+ORD-1252,Mia Anderson,mia.anderson59@example.com,09/16/2026,483.51,4,cancelled,AU
+ORD-1253,Liam Wilson,liam.wilson77@example.com,09/11/2026,441.76,8,cancelled,CA
+ORD-1254,,olivia.hall56@example.com,02/25/2026,71.30,5,cancelled,NZ
+ORD-1255,Oscar Smith,oscar.smith7@example.com,07/25/2026,287.29,4,cancelled ,CA
+ORD-1256,Jack Jones,jack.jones65@example.com,07/17/2026,227.93,9,Cancelled,CA
+ORD-1257,Finn Jones,finn.jones13@example.com,not a date,199.98,6,cancelled,US
+ORD-1258,Chloe Harris,chloe.harris52@example.com,09/18/2026,,1,shipped,United States
+ORD-1259,Grace Walker,grace.walker67@example.com,08/31/2026,231.21,10,pending,UK
+ORD-1260,Finn Martin,finn.martin51@example.com,03/25/2026,495.35,5,cancelled,CA
+ORD-1261,Sophie White,sophie.white91@example.com,09/08/2026,283.65,8,shipped,UK
+ORD-1262,Grace Clark,grace.clark54@example.com,02/26/2026,293.93,1,delivered,UK
+ORD-1263,Isla Harris,isla.harris93@example.com,04/27/2026,30.42,8,pending ,CA
+ORD-1264,Finn Walker,finn.walker19@example.com,07/14/2026,411.72,4,shipped,CA
+ORD-1265,Noah Taylor,noah.taylor57@example.com,01/10/2026,160.28,3,delivered,US
+ORD-1266,Henry White,henry.white95@example.com,08/30/2026,365.06,3,pending,CA
+ORD-1267,Grace Clark,grace.clark68@example.com,09/02/2026,191.53,,delivered,CA
+ORD-1268,Grace White,grace.white87@example.com,07/01/2026,387.13,5,delivered,US
+ORD-1269,Lucas Wilson,lucas.wilson29@example.com,06/02/2026,471.04,5,,United States
+ORD-1270,Leo Martin,leo.martin45@example.com,09/03/2026,282.44,5,cancelled,Australia
+ORD-1271,Isla Clark,isla.clark51@example.com,07/14/2026,410.10,3,cancelled,AU
+ORD-1272,jack lewis,jack.lewis45@example.com,02/10/2026,462.38,5,delivered,United States
+ORD-1273,Chloe Hall,chloe.hall72@example.com,05/19/2026,349.60,3,shipped,Canada
+ORD-1274,Isla Taylor,isla.taylor7@example.com,05/05/2026,336.57,9,PENDING,US
+ORD-1275,  Liam Jones  ,liam.jones43@example.com,07/31/2026,360.09,2,pending,Australia
+ORD-1276,MAX YOUNG,max.young53@example.com,03/22/2026,328.18,8,delivered,US
+ORD-1277,Jack Martin,missing-domain@,05/27/2026,34.29,2,pending,CA
+ORD-1278,Liam Young,liam.young54@example.com,03/31/2026,441.71,3,shipped,NZ
+ORD-1279,Leo Brown,leo.brown5@example.com,05/29/2026,9.59,-1,shipped,UK
+ORD-1280,Jack Thomas,jack.thomas64@example.com,09/26/2026,445.18,3,delivered,UK
+ORD-1281,Chloe Walker,chloe.walker43@example.com,02/27/2026,85.43,8,cancelled,US
+ORD-1282,Olivia Lewis,olivia.lewis38@example.com,06/22/2026,286.05,4,Pending,CA
+ORD-1283,Ruby Hall,ruby.hall66@example.com,08/07/2026,$167.32,7,shipped ,United States
+ORD-1284,Ava Thomas,ava.thomas32@example.com,06/15/2026,8.38,7,Pending,NZ
+ORD-1285,,zoe.martin75@example.com,06/04/2026,362.83,1,cancelled,UK
+ORD-1286,,lucas.smith60@example.com,03/02/2026,156.87,7,cancelled,AU
+ORD-1287,Jack Martin,jack.martin29@example.com,04/24/2026,478.89,8,pending,NZ
+ORD-1288,FINN MARTIN,finn.martin90@example.com,08/01/2026,276.87,8,pending,US
+ORD-1289,Finn Hall,john@@example.com,02/11/2026,226.14,6,SHIPPED,CA
+ORD-1290,Noah Smith,noah.smith26@example.com,09/16/2026,$288.49,3,pending,UK
+ORD-1291,Sophie Thomas,missing-domain@,03/01/2026,106.67,10,delivered,AU
+ORD-1292,Sophie Thomas,sophie.thomas59@example.com,01/29/2026,70.31,7,DELIVERED,CA
+ORD-1293,Liam White,liam.white87@example.com,08/25/2026,404.42,1,delivered,UK
+ORD-1294,Olivia Lewis,olivia.lewis75@example.com,04/22/2026,41.15,7,cancelled,AU
+ORD-1295,Max Smith,max.smith61@example.com,02/05/2026,,7,pending,US
+ORD-1296,Henry Martin,henry.martin58@example.com,07/15/2026,,7,delivered,AU
+ORD-1297,Max Brown,max.brown16@example.com,06/28/2026,93.34,9,delivered ,CA
+ORD-1298,Ava Lewis,ava.lewis1@example.com,04/25/2026,379.31,5,delivered,CA
+ORD-1299,Henry White,henry.white30@example.com,07/14/2026,127.52,6,pending,UK
+ORD-1300,Chloe Young,chloe.young5@example.com,02/27/2026,405.69,7,SHIPPED,US
+ORD-1224,Henry Jones,henry.jones78@example.com,08/09/2026,497.57,3,cancelled,UK
+ORD-1119,Henry Jones,henry.jones15@example.com,04/26/2026,233.42,2,pending,NZ
+ORD-1039,Grace Young,grace.young2@example.com,02/07/2026,231.85,-2,shipped,AU
+ORD-1175,Finn Smith,finn.smith35@example.com,02/11/2026,224.34,7,delivered,CA
+ORD-1204,Isla Thomas,isla.thomas99@example.com,08/25/2026,N/A,7,Delivered,US
+ORD-1168,Jack Harris,jack.harris46@example.com,06/09/2026,56.28,9,pending,US
+ORD-1016,Zoe White,zoe.white88@example.com,01/06/2026,361.76,9,cancelled,UK
+ORD-1140,Oscar Taylor,oscar.taylor80@example.com,04/08/2026,129.06,3,shipped,AU
+ORD-1231,zoe taylor,zoe.taylor4@example.com,02/28/2026,369.16,8,delivered,CA
+ORD-1252,Mia Anderson,mia.anderson59@example.com,09/16/2026,483.51,4,cancelled,AU
+ORD-1117,Liam Taylor,liam.taylor71@example.com,05/17/2026,69.85,5,delivered,NZ
+ORD-1183,Finn Thomas,finn.thomas12@example.com,07/05/2026,221.17,2,pending,NZ
+ORD-1284,Ava Thomas,ava.thomas32@example.com,06/15/2026,8.38,7,Pending,NZ
+ORD-1193,  Ella Jones  ,ella.jones92@example.com,06/25/2026,46.74,3,shipped,US
+ORD-1222,Noah Walker,noah.walker56@example.com,07/08/2026,445.30,8,delivered,UK
+ORD-1096,Sophie Harris,SOPHIE.HARRIS13@EXAMPLE.COM,05/25/2026,417.15,5,pending,UK
+ORD-1300,Chloe Young,CHLOE.YOUNG5@EXAMPLE.COM,02/27/2026,405.69,7,SHIPPED,US
+ORD-1195,Ruby Anderson,RUBY.ANDERSON87@EXAMPLE.COM,06/23/2026,$300.95,6,Shipped,UK
+ORD-1044,Liam Jones,LIAM.JONES36@EXAMPLE.COM,08/05/2026,26.82,6,pending,UK
+ORD-1152,Oscar White,OSCAR.WHITE8@EXAMPLE.COM,07/03/2026,202.08,4,SHIPPED,NZ

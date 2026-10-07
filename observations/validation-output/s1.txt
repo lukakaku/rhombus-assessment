@@ -1,0 +1,35 @@
+CASE s1 | source=320 rows | output=300 rows
+
+[1] INPUT SCHEMA / DRIFT
+PASS  source matches declared s1 test design
+
+[2] CLEANING, OUTPUT STRUCTURE, DEDUPLICATION
+PASS  output has exactly 8 columns in baseline order
+PASS  row count 300 (expected 300)
+PASS  no exact duplicate output rows
+PASS  no duplicate output order_id
+PASS  first-occurrence input row order and IDs preserved
+PASS  customer_name: 0 cleaning-rule differences
+PASS  email: 0 cleaning-rule differences
+PASS  order_date: 0 cleaning-rule differences
+PASS  amount_usd: 0 cleaning-rule differences
+PASS  quantity: 0 cleaning-rule differences
+PASS  status: 0 cleaning-rule differences
+PASS  country: 0 cleaning-rule differences
+
+[3] BASELINE COMPARISON / SEMANTIC DRIFT
+PASS  baseline records aligned: 300 / 300
+PASS  baseline comparison: customer_name unchanged
+PASS  baseline comparison: email unchanged
+PASS  baseline comparison: order_date unchanged
+DRIFT baseline comparison: amount_usd changed for 287 orders (0 became NULL, 287 changed value, 0 filled from NULL) (examples: ['1001', '1002', '1003'])
+PASS  baseline comparison: quantity unchanged
+PASS  baseline comparison: status unchanged
+PASS  baseline comparison: country unchanged
+SEMANTIC amount scale: 287 comparable positive values; exact 100x = True
+
+[4] DETERMINISM (IF TWO RUNS WERE PROVIDED)
+SKIP  provide --repeat SECOND_OUTPUT.csv to test repeatability
+
+SUMMARY: 0 rule/design FAIL, 1 drift/change finding(s), 0 WARN
+EXIT CODE: 1

@@ -1,0 +1,321 @@
+order_id,customer_name,order_date,order_total_usd,quantity,status,country,payment_method
+ORD-1001,Noah Smith,05/21/2026,115.49,2,shipped,CA,credit_card
+ORD-1002,Henry Smith,01/16/2026,113.23,9,shipped,CA,bank_transfer
+ORD-1003,Chloe Lewis,08/03/2026,227.36,5,shipped,US,paypal
+ORD-1004,Henry Martin,05/23/2026,111.58,6,shipped,Australia,bank_transfer
+ORD-1005,Ruby Jones,07/03/2026,303.84,1,delivered,CA,credit_card
+ORD-1006,Noah Young,07/13/2026,278.26,10,cancelled,CA,paypal
+ORD-1007,Chloe Lewis,02/05/2026,332.33,5,shipped,United States,credit_card
+ORD-1008,Noah Anderson,05/23/2026,319.66,6,pending,UK,paypal
+ORD-1009,Oscar Taylor,05/17/2026,468.64,2,PENDING,Canada,bank_transfer
+ORD-1010,Lucas Brown,08/25/2026,138.62,9,pending,UK,bank_transfer
+ORD-1011,Liam Taylor,01/17/2026,203.58,2,pending,CA,credit_card
+ORD-1012,Grace Taylor,09/13/2026,442.92,8,pending,UK,paypal
+ORD-1013,Ava Taylor,05/15/2026,294.37,10,delivered,UK,credit_card
+ORD-1014,Lucas Brown,09/18/2026,50,1,shipped,US,bank_transfer
+ORD-1015,Ethan Walker,08/05/2026,36.45,7,delivered,CA,paypal
+ORD-1016,Zoe White,01/06/2026,361.76,9,cancelled,UK,credit_card
+ORD-1017,Noah Wilson,08/11/2026,$229.59,5,pending,CA,paypal
+ORD-1018,Noah Hall,06/02/2026,256.29,4,pending,UK,bank_transfer
+ORD-1019,Ethan White,01/01/2026,165.46,1,shipped,UK,credit_card
+ORD-1020,Jack Taylor,01/30/2026,439.61,2,shipped,NZ,bank_transfer
+ORD-1021,Mia Walker,03/06/2026,331.58,9,pending,UK,paypal
+ORD-1022,Sophie Hall,08/05/2026,464.81,4,cancelled,NZ,credit_card
+ORD-1023,Oscar Thomas,09/22/2026,64.9,4,shipped,UK,bank_transfer
+ORD-1024,Olivia Harris,04/28/2026,114.01,-1,SHIPPED,US,paypal
+ORD-1025,Mia Young,01/17/2026,40.07,4,,NZ,bank_transfer
+ORD-1026,Chloe White,03/09/2026,468.08,10,delivered,US,paypal
+ORD-1027,LEO WALKER,07/28/2026,51.69,7,cancelled,NZ,credit_card
+ORD-1028,Henry Thomas,02/30/2026,328.46,2,shipped,NZ,paypal
+ORD-1029,Grace Walker,02/25/2026,,9,delivered,US,bank_transfer
+ORD-1030,  Henry Brown  ,05/23/2026,128.65,2,delivered,CA,credit_card
+ORD-1031,Noah Smith,01/08/2026,463.55,4,pending,NZ,bank_transfer
+ORD-1032,,04/20/2026,451.71,3,delivered,AU,paypal
+ORD-1033,Ruby Wilson,08/21/2026,214.39,9,delivered,US,credit_card
+ORD-1034,Chloe Wilson,04/22/2026,291.69,9,shipped,UK,bank_transfer
+ORD-1035,Liam Smith,09/02/2026,460.1,9,pending,AU,paypal
+ORD-1036,Sophie Jones,04/06/2026,299.54,4,delivered,AU,credit_card
+ORD-1037,Isla Taylor,01/21/2026,45.58,10,cancelled,UK,paypal
+ORD-1038,Chloe Clark,06/10/2026,136.48,3,cancelled,NZ,credit_card
+ORD-1039,Grace Young,02/07/2026,231.85,-2,shipped,AU,bank_transfer
+ORD-1040,Max Taylor,09/17/2026,70.57,6,shipped,US,credit_card
+ORD-1041,  Oscar Wilson  ,not a date,$417.70,5,shipped,CA,bank_transfer
+ORD-1042,Jack Young,02/23/2026,$135.91,2,pending,UK,paypal
+ORD-1043,Jack Harris,04/18/2026,174.73,5,delivered,UK,credit_card
+ORD-1044,Liam Jones,08/05/2026,26.82,6,pending,UK,paypal
+ORD-1045,Ethan Lewis,08/15/2026,354.31,9,shipped,AU,bank_transfer
+ORD-1046,Mia Young,03/18/2026,22.83,6,pending,NZ,credit_card
+ORD-1047,Ava Smith,06/07/2026,450,1,cancelled,US,paypal
+ORD-1048,  Lucas Clark  ,02/22/2026,"$3,911.60",7,pending,US,bank_transfer
+ORD-1049,Ethan Walker,04/01/2026,17.27,6,delivered,US,paypal
+ORD-1050,Zoe Brown,02/25/2026,436.72,8,pending,United States,credit_card
+ORD-1051,Ella Martin,02/30/2026,115.35,4,Delivered,UK,bank_transfer
+ORD-1052,Zoe Hall,02/05/2026,143.17,9,delivered,CA,credit_card
+ORD-1053,Grace Smith,03/01/2026,93.39,5,shipped,AU,paypal
+ORD-1054,Finn Anderson,06/26/2026,394.28,7,shipped,NZ,bank_transfer
+ORD-1055,Isla Taylor,05/11/2026,355.85,1,pending,United Kingdom,credit_card
+ORD-1056,Henry Jones,06/19/2026,160.39,2,cancelled,CA,bank_transfer
+ORD-1057,Jack Clark,07/29/2026,204.19,5,pending,US,paypal
+ORD-1058,Henry Clark,07/14/2026,375.33,3,cancelled,NZ,credit_card
+ORD-1059,Max Hall,01/01/2026,147.02,7,cancelled,NZ,paypal
+ORD-1060,Ella Thomas,04/20/2026,239.23,3,shipped,UK,bank_transfer
+ORD-1061,Sophie Clark,06/21/2026,410.12,4,cancelled,US,bank_transfer
+ORD-1062,Chloe Brown,01/13/2026,126.2,8,shipped,NZ,paypal
+ORD-1063,Henry Young,04/10/2026,349.7,8,delivered,US,credit_card
+ORD-1064,Ava Clark,01/03/2026,430.92,2,delivered,US,credit_card
+ORD-1065,Ethan Walker,09/23/2026,29.86,4,shipped,NZ,paypal
+ORD-1066,Ava Walker,08/26/2026,267.91,9,cancelled,NZ,bank_transfer
+ORD-1067,Finn Hall,09/16/2026,416.13,9,delivered,US,bank_transfer
+ORD-1068,Leo Thomas,05/13/2026,127.38,5,delivered,US,credit_card
+ORD-1069,zoe thomas,02/09/2026,146.44,5,cancelled,UK,paypal
+ORD-1070,Max Jones,03/12/2026,119.47,3,pending,AU,paypal
+ORD-1071,Henry Anderson,06/19/2026,235.63,1,pending,NZ,credit_card
+ORD-1072,Ruby Young,01/11/2026,,8,shipped,UK,bank_transfer
+ORD-1073,Jack Walker,07/19/2026,271.42,9,pending,NZ,paypal
+ORD-1074,  Lucas Wilson  ,08/12/2026,abc,,delivered,US,credit_card
+ORD-1075,Ella Young,03/07/2026,269.39,7,SHIPPED,AU,bank_transfer
+ORD-1076,Henry Brown,08/25/2026,29.89,7,cancelled,US,bank_transfer
+ORD-1077,ella martin,06/22/2026,440.42,5,delivered,United Kingdom,credit_card
+ORD-1078,Mia Thomas,01/10/2026,272.01,6,pending,AU,paypal
+ORD-1079,Liam Walker,01/16/2026,103.68,1,PENDING,US,paypal
+ORD-1080,Ava Thomas,02/28/2026,474.14,8,cancelled,UK,credit_card
+ORD-1081,Ethan Harris,02/28/2026,482.54,2,shipped,UK,bank_transfer
+ORD-1082,Isla Clark,07/12/2026,471.03,4,shipped,CA,bank_transfer
+ORD-1083,Lucas Jones,06/04/2026,302.2,2,shipped,UK,paypal
+ORD-1084,Max Anderson,07/09/2026,255.45,6,shipped,NZ,credit_card
+ORD-1085,Leo Jones,08/10/2026,319.61,8,pending,NZ,paypal
+ORD-1086,Ethan Lewis,09/25/2026,138.69,9,delivered,NZ,bank_transfer
+ORD-1087,Henry Hall,05/18/2026,426.6,2,cancelled,NZ,credit_card
+ORD-1088,Lucas Walker,08/26/2026,307.11,7,cancelled,AU,credit_card
+ORD-1089,Leo Hall,06/16/2026,246.34,6,cancelled,UK,bank_transfer
+ORD-1090,,05/22/2026,10.02,4,shipped,US,paypal
+ORD-1091,Henry Thomas,05/04/2026,240.67,8,delivered,AU,credit_card
+ORD-1092,Mia Wilson,04/24/2026,347.43,5,cancelled,New Zealand,paypal
+ORD-1093,Max White,06/26/2026,498.33,9,cancelled,UK,bank_transfer
+ORD-1094,Ella Wilson,06/06/2026,119.12,4,cancelled,AU,paypal
+ORD-1095,  Max Walker  ,04/05/2026,112.11,8,cancelled,CA,credit_card
+ORD-1096,Sophie Harris,05/25/2026,417.15,5,pending,UK,bank_transfer
+ORD-1097,Ethan Wilson,01/08/2026,269.4,5,shipped,AU,paypal
+ORD-1098,  Max Wilson  ,03/06/2026,434.89,8,shipped,AU,bank_transfer
+ORD-1099,Isla Wilson,08/29/2026,223.03,3,shipped,United Kingdom,credit_card
+ORD-1100,Leo Jones,02/03/2026,248.41,10,shipped,US,credit_card
+ORD-1101,Ava Walker,06/05/2026,496.99,2,delivered ,CA,bank_transfer
+ORD-1102,Finn Walker,04/26/2026,193.29,8,cancelled,CA,paypal
+ORD-1103,Henry Wilson,01/31/2026,480.25,2,pending,US,bank_transfer
+ORD-1104,Zoe Clark,02/11/2026,123.73,9,shipped,US,paypal
+ORD-1105,  Olivia Anderson  ,08/19/2026,298.94,5,shipped ,US,credit_card
+ORD-1106,Jack Lewis,05/25/2026,430.51,2,pending,UK,paypal
+ORD-1107,Isla Clark,04/12/2026,N/A,4,pending,UK,credit_card
+ORD-1108,Ava Jones,01/31/2026,397.35,10,cancelled,NZ,bank_transfer
+ORD-1109,Noah Thomas,06/05/2026,204.24,5,delivered,NZ,paypal
+ORD-1110,Mia Harris,01/21/2026,368.59,10,cancelled,AU,credit_card
+ORD-1111,Mia Taylor,01/11/2026,337.78,5,shipped,US,bank_transfer
+ORD-1112,Leo White,08/15/2026,,10,delivered,NZ,credit_card
+ORD-1113,Mia Thomas,06/28/2026,169.99,2,pending,UK,bank_transfer
+ORD-1114,Henry Lewis,09/11/2026,332.98,,shipped ,NZ,paypal
+ORD-1115,Mia Martin,05/10/2026,62.38,7,shipped,CA,paypal
+ORD-1116,  Ella Anderson  ,01/28/2026,$261.63,10,delivered,NZ,bank_transfer
+ORD-1117,Liam Taylor,05/17/2026,69.85,5,delivered,NZ,credit_card
+ORD-1118,Noah Smith,05/03/2026,83.4,9,SHIPPED,CA,credit_card
+ORD-1119,Henry Jones,04/26/2026,233.42,2,pending,NZ,paypal
+ORD-1120,Jack White,05/20/2026,,8,pending,NZ,bank_transfer
+ORD-1121,Max Brown,07/16/2026,461.32,9,pending,AU,credit_card
+ORD-1122,Zoe Walker,08/01/2026,467.45,,cancelled,AU,bank_transfer
+ORD-1123,Jack Lewis,06/02/2026,292.06,8,Pending,NZ,paypal
+ORD-1124,MAX THOMAS,06/26/2026,278.2,9,delivered,New Zealand,bank_transfer
+ORD-1125,GRACE HALL,04/07/2026,$123.21,7,pending,NZ,credit_card
+ORD-1126,Liam Martin,08/31/2026,457.15,7,delivered ,US,paypal
+ORD-1127,Leo Smith,03/06/2026,482.85,6,shipped,NZ,credit_card
+ORD-1128,Noah White,08/22/2026,362.61,7,pending,AU,paypal
+ORD-1129,Leo Walker,05/16/2026,313.51,7,shipped,UK,bank_transfer
+ORD-1130,Max Anderson,06/12/2026,360.77,8,shipped,Canada,credit_card
+ORD-1131,MIA TAYLOR,05/28/2026,374.65,7,shipped,AU,paypal
+ORD-1132,Ella Brown,06/03/2026,27.77,1,cancelled,UK,bank_transfer
+ORD-1133,Oscar Anderson,03/16/2026,267.93,10,pending,US,credit_card
+ORD-1134,Ethan Jones,07/15/2026,343.15,8,PENDING,US,bank_transfer
+ORD-1135,Ella Clark,05/11/2026,131.39,1,delivered,UK,paypal
+ORD-1136,Max Brown,02/07/2026,472.89,10,cancelled,NZ,bank_transfer
+ORD-1137,Zoe Thomas,06/04/2026,499.69,8,shipped,United States,paypal
+ORD-1138,Ruby Harris,07/03/2026,151.46,5,shipped,NZ,credit_card
+ORD-1139,Zoe Smith,01/26/2026,373.86,-5,pending,CA,credit_card
+ORD-1140,Oscar Taylor,04/08/2026,129.06,3,shipped,AU,bank_transfer
+ORD-1141,Jack Walker,08/14/2026,291.89,,shipped,United Kingdom,paypal
+ORD-1142,Grace Lewis,08/01/2026,104.39,9,cancelled,CA,credit_card
+ORD-1143,Sophie Young,05/20/2026,132.2,8,cancelled,UK,bank_transfer
+ORD-1144,Noah Thomas,02/08/2026,378.3,-3,delivered,CA,paypal
+ORD-1145,Oscar Jones,07/22/2026,135.91,2,delivered ,UK,bank_transfer
+ORD-1146,Zoe Harris,07/15/2026,470.44,2,pending,NZ,credit_card
+ORD-1147,Olivia Harris,06/17/2026,114.58,2,delivered,United Kingdom,paypal
+ORD-1148,Henry Jones,03/13/2026,473.4,5,delivered,AU,credit_card
+ORD-1149,Noah Taylor,03/11/2026,,9,delivered,CA,paypal
+ORD-1150,Ava Young,08/01/2026,54.02,8,delivered,UK,bank_transfer
+ORD-1151,Liam Lewis,07/09/2026,224.47,4,cancelled,AU,paypal
+ORD-1152,Oscar White,07/03/2026,202.08,4,SHIPPED,NZ,bank_transfer
+ORD-1153,Mia Clark,04/19/2026,321.55,1,shipped,UK,credit_card
+ORD-1154,  Lucas Brown  ,04/16/2026,$415.76,,pending,CA,bank_transfer
+ORD-1155,Chloe Hall,04/30/2026,388.31,,shipped,UK,credit_card
+ORD-1156,Ava Brown,05/09/2026,59.41,1,pending,AU,paypal
+ORD-1157,Oscar Walker,05/02/2026,165.27,3,cancelled,AU,paypal
+ORD-1158,Ava Lewis,08/04/2026,61.26,2,Delivered,NZ,bank_transfer
+ORD-1159,Oscar White,02/25/2026,254.4,10,shipped,CA,credit_card
+ORD-1160,Jack Thomas,01/16/2026,499.3,7,delivered,AU,bank_transfer
+ORD-1161,Leo Lewis,08/16/2026,450.14,6,PENDING,AU,credit_card
+ORD-1162,Ava Wilson,06/16/2026,497.34,9,cancelled,NZ,paypal
+ORD-1163,Sophie Harris,08/09/2026,397.58,2,pending,NZ,bank_transfer
+ORD-1164,Ella Young,04/27/2026,,8,,NZ,paypal
+ORD-1165,Noah Martin,08/07/2026,,6,pending ,NZ,credit_card
+ORD-1166,Mia Jones,02/13/2026,218.78,6,pending,CA,credit_card
+ORD-1167,Liam Harris,06/18/2026,65.5,6,delivered,AU,bank_transfer
+ORD-1168,Jack Harris,06/09/2026,56.28,9,pending,US,paypal
+ORD-1169,Leo Taylor,02/25/2026,423.46,6,SHIPPED,UK,paypal
+ORD-1170,ISLA TAYLOR,08/08/2026,487.4,10,shipped,CA,bank_transfer
+ORD-1171,Zoe Smith,04/03/2026,352.84,5,cancelled,UK,credit_card
+ORD-1172,Olivia Brown,03/15/2026,330.39,2,pending,AU,bank_transfer
+ORD-1173,Mia Lewis,04/21/2026,212.82,6,PENDING,UK,credit_card
+ORD-1174,Jack Lewis,06/16/2026,300.13,1,pending,US,paypal
+ORD-1175,Finn Smith,02/11/2026,224.34,7,delivered,CA,credit_card
+ORD-1176,Ella Anderson,05/20/2026,378.7,2,cancelled,NZ,bank_transfer
+ORD-1177,Noah Wilson,09/07/2026,335.23,1,,NZ,paypal
+ORD-1178,Finn Smith,not a date,154.2,4,pending,UK,bank_transfer
+ORD-1179,Jack Martin,03/03/2026,251.21,7,pending,US,paypal
+ORD-1180,Ruby White,04/28/2026,281.57,6,shipped,NZ,credit_card
+ORD-1181,Liam Anderson,01/10/2026,460.98,6,delivered,CA,paypal
+ORD-1182,Ruby Lewis,08/02/2026,62.01,1,cancelled,United States,bank_transfer
+ORD-1183,Finn Thomas,07/05/2026,221.17,2,pending,NZ,credit_card
+ORD-1184,Isla Anderson,09/26/2026,200.9,5,cancelled ,US,paypal
+ORD-1185,Grace Walker,03/28/2026,257.69,2,PENDING,UK,credit_card
+ORD-1186,Oscar Lewis,03/17/2026,55.89,5,pending,US,bank_transfer
+ORD-1187,Finn Brown,02/08/2026,475.89,8,delivered,CA,bank_transfer
+ORD-1188,Isla Thomas,06/15/2026,161.49,8,shipped,NZ,credit_card
+ORD-1189,Ella Clark,06/05/2026,297.75,6,shipped,UK,paypal
+ORD-1190,ELLA THOMAS,01/20/2026,187.53,5,shipped ,AU,bank_transfer
+ORD-1191,Finn Harris,09/17/2026,234.04,9,shipped,NZ,paypal
+ORD-1192,Isla Clark,04/07/2026,$304.48,9,pending,AU,credit_card
+ORD-1193,  Ella Jones  ,06/25/2026,46.74,3,shipped,US,credit_card
+ORD-1194,Ella Thomas,09/26/2026,$306.85,6,cancelled,UK,bank_transfer
+ORD-1195,Ruby Anderson,06/23/2026,$300.95,6,Shipped,UK,paypal
+ORD-1196,Noah White,07/17/2026,129.74,10,,UK,credit_card
+ORD-1197,Mia Harris,03/14/2026,158.56,7,pending,CA,bank_transfer
+ORD-1198,Mia Wilson,07/12/2026,396.87,3,shipped,NZ,paypal
+ORD-1199,SOPHIE MARTIN,01/10/2026,157.89,4,cancelled,NZ,credit_card
+ORD-1200,Chloe Taylor,03/12/2026,43.2,2,shipped,UK,paypal
+ORD-1201,Finn Brown,07/12/2026,85.31,10,pending,NZ,bank_transfer
+ORD-1202,Liam Anderson,07/06/2026,361.19,8,cancelled,NZ,bank_transfer
+ORD-1203,Lucas White,05/03/2026,482.97,8,pending,UK,paypal
+ORD-1204,Isla Thomas,08/25/2026,N/A,7,Delivered,US,credit_card
+ORD-1205,Chloe Walker,03/12/2026,30.83,8,cancelled,CA,paypal
+ORD-1206,Noah Lewis,09/22/2026,146.11,3,cancelled,NZ,bank_transfer
+ORD-1207,Sophie Brown,08/12/2026,473.47,4,delivered,UK,credit_card
+ORD-1208,Olivia Anderson,01/28/2026,"$2,534.90",4,delivered,AU,credit_card
+ORD-1209,Oscar Taylor,01/15/2026,465.76,6,pending,US,paypal
+ORD-1210,liam wilson,08/30/2026,416.4,8,delivered,CA,bank_transfer
+ORD-1211,Olivia Young,02/10/2026,131.68,3,delivered,Australia,paypal
+ORD-1212,jack taylor,06/04/2026,28.64,,delivered ,AU,credit_card
+ORD-1213,Noah Hall,09/13/2026,270.35,9,pending,US,bank_transfer
+ORD-1214,JACK ANDERSON,01/01/2026,179.64,10,,US,paypal
+ORD-1215,Mia White,07/04/2026,476.93,9,shipped,NZ,credit_card
+ORD-1216,Leo Smith,07/18/2026,130.56,1,cancelled,AU,bank_transfer
+ORD-1217,Oscar Taylor,02/23/2026,293.04,6,pending,AU,credit_card
+ORD-1218,Oscar White,06/23/2026,91.67,8,delivered,US,bank_transfer
+ORD-1219,,08/23/2026,150.25,1,pending,AU,paypal
+ORD-1220,Grace Young,06/08/2026,202.12,9,delivered,UK,bank_transfer
+ORD-1221,Liam Walker,04/08/2026,181.7,1,cancelled,United Kingdom,credit_card
+ORD-1222,Noah Walker,07/08/2026,445.3,8,delivered,UK,paypal
+ORD-1223,Ethan Thomas,09/12/2026,462.53,9,cancelled,AU,paypal
+ORD-1224,Henry Jones,08/09/2026,497.57,3,cancelled,UK,bank_transfer
+ORD-1225,Noah Jones,06/17/2026,151.34,8,delivered,US,credit_card
+ORD-1226,Ella Martin,08/17/2026,364.77,6,delivered,UK,paypal
+ORD-1227,Liam Jones,07/27/2026,258.98,3,shipped,US,credit_card
+ORD-1228,Finn Clark,08/13/2026,67.48,4,cancelled,UK,bank_transfer
+ORD-1229,Ruby Harris,01/17/2026,80.95,8,cancelled,UK,paypal
+ORD-1230,Ella Walker,02/09/2026,73.16,6,delivered,UK,bank_transfer
+ORD-1231,zoe taylor,02/28/2026,369.16,8,delivered,CA,credit_card
+ORD-1232,Noah Wilson,05/14/2026,225.91,10,cancelled,NZ,credit_card
+ORD-1233,Chloe Jones,03/11/2026,228.76,8,shipped,UK,bank_transfer
+ORD-1234,Oscar Lewis,02/03/2026,273.37,5,pending,US,paypal
+ORD-1235,Oscar White,04/25/2026,492.64,3,pending,NZ,bank_transfer
+ORD-1236,Olivia Martin,07/08/2026,$402.81,9,pending,CA,credit_card
+ORD-1237,Mia Jones,06/08/2026,499.8,8,delivered,NZ,paypal
+ORD-1238,  Isla Jones  ,03/06/2026,322.96,8,delivered,CA,paypal
+ORD-1239,Oscar Brown,04/04/2026,483.3,7,Shipped,AU,credit_card
+ORD-1240,Sophie Brown,06/05/2026,85.17,4,cancelled,CA,bank_transfer
+ORD-1241,Jack Hall,02/10/2026,102.17,9,CANCELLED,US,paypal
+ORD-1242,Jack Harris,02/17/2026,322.29,10,pending,US,bank_transfer
+ORD-1243,FINN LEWIS,06/22/2026,25.39,1,shipped,AU,credit_card
+ORD-1244,Isla Wilson,04/18/2026,288.21,10,shipped,NZ,credit_card
+ORD-1245,Max Wilson,06/04/2026,126.21,7,cancelled,NZ,bank_transfer
+ORD-1246,Mia Lewis,01/31/2026,222.6,8,delivered,US,paypal
+ORD-1247,Grace Harris,03/15/2026,431.44,6,cancelled,NZ,bank_transfer
+ORD-1248,Ava Walker,07/09/2026,283.02,6,pending,New Zealand,credit_card
+ORD-1249,Noah Wilson,08/19/2026,74.73,1,cancelled,NZ,paypal
+ORD-1250,Finn Anderson,05/08/2026,407.67,10,cancelled,United States,bank_transfer
+ORD-1251,Ethan Thomas,09/21/2026,251.89,5,delivered,AU,paypal
+ORD-1252,Mia Anderson,09/16/2026,483.51,4,cancelled,AU,credit_card
+ORD-1253,Liam Wilson,09/11/2026,441.76,8,cancelled,CA,paypal
+ORD-1254,,02/25/2026,71.3,5,cancelled,NZ,bank_transfer
+ORD-1255,Oscar Smith,07/25/2026,287.29,4,cancelled ,CA,credit_card
+ORD-1256,Jack Jones,07/17/2026,227.93,9,Cancelled,CA,bank_transfer
+ORD-1257,Finn Jones,not a date,199.98,6,cancelled,US,credit_card
+ORD-1258,Chloe Harris,09/18/2026,,1,shipped,United States,paypal
+ORD-1259,Grace Walker,08/31/2026,231.21,10,pending,UK,paypal
+ORD-1260,Finn Martin,03/25/2026,495.35,5,cancelled,CA,credit_card
+ORD-1261,Sophie White,09/08/2026,283.65,8,shipped,UK,bank_transfer
+ORD-1262,Grace Clark,02/26/2026,293.93,1,delivered,UK,paypal
+ORD-1263,Isla Harris,04/27/2026,30.42,8,pending ,CA,credit_card
+ORD-1264,Finn Walker,07/14/2026,411.72,4,shipped,CA,bank_transfer
+ORD-1265,Noah Taylor,01/10/2026,160.28,3,delivered,US,bank_transfer
+ORD-1266,Henry White,08/30/2026,365.06,3,pending,CA,credit_card
+ORD-1267,Grace Clark,09/02/2026,191.53,,delivered,CA,paypal
+ORD-1268,Grace White,07/01/2026,387.13,5,delivered,US,bank_transfer
+ORD-1269,Lucas Wilson,06/02/2026,471.04,5,,United States,paypal
+ORD-1270,Leo Martin,09/03/2026,282.44,5,cancelled,Australia,credit_card
+ORD-1271,Isla Clark,07/14/2026,410.1,3,cancelled,AU,bank_transfer
+ORD-1272,jack lewis,02/10/2026,462.38,5,delivered,United States,credit_card
+ORD-1273,Chloe Hall,05/19/2026,349.6,3,shipped,Canada,paypal
+ORD-1274,Isla Taylor,05/05/2026,336.57,9,PENDING,US,paypal
+ORD-1275,  Liam Jones  ,07/31/2026,360.09,2,pending,Australia,bank_transfer
+ORD-1276,MAX YOUNG,03/22/2026,328.18,8,delivered,US,credit_card
+ORD-1277,Jack Martin,05/27/2026,34.29,2,pending,CA,bank_transfer
+ORD-1278,Liam Young,03/31/2026,441.71,3,shipped,NZ,paypal
+ORD-1279,Leo Brown,05/29/2026,9.59,-1,shipped,UK,credit_card
+ORD-1280,Jack Thomas,09/26/2026,445.18,3,delivered,UK,paypal
+ORD-1281,Chloe Walker,02/27/2026,85.43,8,cancelled,US,bank_transfer
+ORD-1282,Olivia Lewis,06/22/2026,286.05,4,Pending,CA,credit_card
+ORD-1283,Ruby Hall,08/07/2026,$167.32,7,shipped ,United States,bank_transfer
+ORD-1284,Ava Thomas,06/15/2026,8.38,7,Pending,NZ,paypal
+ORD-1285,,06/04/2026,362.83,1,cancelled,UK,credit_card
+ORD-1286,,03/02/2026,156.87,7,cancelled,AU,credit_card
+ORD-1287,Jack Martin,04/24/2026,478.89,8,pending,NZ,paypal
+ORD-1288,FINN MARTIN,08/01/2026,276.87,8,pending,US,bank_transfer
+ORD-1289,Finn Hall,02/11/2026,226.14,6,SHIPPED,CA,bank_transfer
+ORD-1290,Noah Smith,09/16/2026,$288.49,3,pending,UK,credit_card
+ORD-1291,Sophie Thomas,03/01/2026,106.67,10,delivered,AU,paypal
+ORD-1292,Sophie Thomas,01/29/2026,70.31,7,DELIVERED,CA,bank_transfer
+ORD-1293,Liam White,08/25/2026,404.42,1,delivered,UK,paypal
+ORD-1294,Olivia Lewis,04/22/2026,41.15,7,cancelled,AU,credit_card
+ORD-1295,Max Smith,02/05/2026,,7,pending,US,paypal
+ORD-1296,Henry Martin,07/15/2026,,7,delivered,AU,credit_card
+ORD-1297,Max Brown,06/28/2026,93.34,9,delivered ,CA,bank_transfer
+ORD-1298,Ava Lewis,04/25/2026,379.31,5,delivered,CA,bank_transfer
+ORD-1299,Henry White,07/14/2026,127.52,6,pending,UK,credit_card
+ORD-1300,Chloe Young,02/27/2026,405.69,7,SHIPPED,US,paypal
+ORD-1224,Henry Jones,08/09/2026,497.57,3,cancelled,UK,paypal
+ORD-1119,Henry Jones,04/26/2026,233.42,2,pending,NZ,bank_transfer
+ORD-1039,Grace Young,02/07/2026,231.85,-2,shipped,AU,credit_card
+ORD-1175,Finn Smith,02/11/2026,224.34,7,delivered,CA,bank_transfer
+ORD-1204,Isla Thomas,08/25/2026,N/A,7,Delivered,US,paypal
+ORD-1168,Jack Harris,06/09/2026,56.28,9,pending,US,credit_card
+ORD-1016,Zoe White,01/06/2026,361.76,9,cancelled,UK,credit_card
+ORD-1140,Oscar Taylor,04/08/2026,129.06,3,shipped,AU,paypal
+ORD-1231,zoe taylor,02/28/2026,369.16,8,delivered,CA,bank_transfer
+ORD-1252,Mia Anderson,09/16/2026,483.51,4,cancelled,AU,credit_card
+ORD-1117,Liam Taylor,05/17/2026,69.85,5,delivered,NZ,bank_transfer
+ORD-1183,Finn Thomas,07/05/2026,221.17,2,pending,NZ,paypal
+ORD-1284,Ava Thomas,06/15/2026,8.38,7,Pending,NZ,bank_transfer
+ORD-1193,  Ella Jones  ,06/25/2026,46.74,3,shipped,US,credit_card
+ORD-1222,Noah Walker,07/08/2026,445.3,8,delivered,UK,paypal
+ORD-1096,Sophie Harris,05/25/2026,417.15,5,pending,UK,bank_transfer
+ORD-1300,Chloe Young,02/27/2026,405.69,7,SHIPPED,US,paypal
+ORD-1195,Ruby Anderson,06/23/2026,$300.95,6,Shipped,UK,credit_card
+ORD-1044,Liam Jones,08/05/2026,26.82,6,pending,UK,paypal
+ORD-1152,Oscar White,07/03/2026,202.08,4,SHIPPED,NZ,credit_card

@@ -1,0 +1,35 @@
+CASE s2 | source=320 rows | output=300 rows
+
+[1] INPUT SCHEMA / DRIFT
+PASS  source matches declared s2 test design
+
+[2] CLEANING, OUTPUT STRUCTURE, DEDUPLICATION
+PASS  output has exactly 8 columns in baseline order
+PASS  row count 300 (expected 300)
+PASS  no exact duplicate output rows
+PASS  no duplicate output order_id
+PASS  first-occurrence input row order and IDs preserved
+PASS  customer_name: 0 cleaning-rule differences
+PASS  email: 0 cleaning-rule differences
+FAIL  order_date: 167 cleaning-rule differences (examples: ['1001', '1002', '1004'])
+FAIL  amount_usd: 14 cleaning-rule differences (examples: ['1017', '1041', '1042'])
+PASS  quantity: 0 cleaning-rule differences
+PASS  status: 0 cleaning-rule differences
+PASS  country: 0 cleaning-rule differences
+
+[3] BASELINE COMPARISON / SEMANTIC DRIFT
+PASS  baseline records aligned: 300 / 300
+PASS  baseline comparison: customer_name unchanged
+PASS  baseline comparison: email unchanged
+DRIFT baseline comparison: order_date changed for 120 orders (0 became NULL, 120 changed value, 0 filled from NULL) (examples: ['1003', '1005', '1007'])
+DRIFT baseline comparison: amount_usd changed for 14 orders (14 became NULL, 0 changed value, 0 filled from NULL) (examples: ['1017', '1041', '1042'])
+PASS  baseline comparison: quantity unchanged
+PASS  baseline comparison: status unchanged
+PASS  baseline comparison: country unchanged
+SEMANTIC dates changed vs original meaning: 120 (120 silently different dates, 120 of them exact day/month swaps; 0 became NULL)
+
+[4] DETERMINISM (IF TWO RUNS WERE PROVIDED)
+SKIP  provide --repeat SECOND_OUTPUT.csv to test repeatability
+
+SUMMARY: 2 rule/design FAIL, 2 drift/change finding(s), 0 WARN
+EXIT CODE: 1

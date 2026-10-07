@@ -1,5 +1,6 @@
 .env
 .venv/
+.auth/
 __pycache__/
 node_modules/
 playwright-report/
@@ -7,3 +8,5 @@ test-results/
 service-account*.json
 *-key.json
 credentials*.json
+.pytest_cache/
+.vscode/
